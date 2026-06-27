@@ -9,6 +9,7 @@ A curated list of awesome articles, kexts, tools and shiny things for Hackintosh
 - [Glossary](#glossary)
 - [Tools](#tools)
   - [Installer](#installer)
+  - [EFI Builders](#efi-builders)
   - [Boot Launcher](#boot-launcher)
   - [Configuration](#configuration)
 - [Kexts](#kexts)
@@ -26,11 +27,14 @@ A curated list of awesome articles, kexts, tools and shiny things for Hackintosh
 
 ### Installer
 
-- [HackMate](https://github.com/riftaway7-code/hackmate) – Automated OpenCore EFI builder. Scans your hardware, picks the right kexts, generates SSDTs and config.plist, and writes a bootable USB — all without touching a config file. Supports Linux, Windows, and macOS as host OS.
 - UniBeast
   - [9.0.0 Mojave](https://www.tonymacx86.com/resources/unibeast-9-0-0-mojave.406/)
   - [8.3.2 High Sierra](https://www.tonymacx86.com/resources/unibeast-8-3-2-high-sierra.383/)
   - [7.1.1 Sierra](https://www.tonymacx86.com/resources/unibeast-7-1-1-sierra.333/)
+
+### EFI Builders
+
+- [HackMate](https://github.com/riftaway7-code/hackmate) – Automated OpenCore EFI builder for ThinkPads (T480, T470, T430, X1 Carbon, X220, and more). Detects hardware, selects kexts, generates SSDTs, builds config.plist, and creates a bootable USB — no manual configuration required.
 
 ### Boot Launcher
 
@@ -77,4 +81,3 @@ A curated list of awesome articles, kexts, tools and shiny things for Hackintosh
 ## Community
 
   - [tonymacx86.com](https://www.tonymacx86.com/)
-
