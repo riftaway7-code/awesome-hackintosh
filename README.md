@@ -26,6 +26,7 @@ A curated list of awesome articles, kexts, tools and shiny things for Hackintosh
 
 ### Installer
 
+- [HackMate](https://github.com/riftaway7-code/hackmate) – Automated OpenCore EFI builder. Scans your hardware, picks the right kexts, generates SSDTs and config.plist, and writes a bootable USB — all without touching a config file. Supports Linux, Windows, and macOS as host OS.
 - UniBeast
   - [9.0.0 Mojave](https://www.tonymacx86.com/resources/unibeast-9-0-0-mojave.406/)
   - [8.3.2 High Sierra](https://www.tonymacx86.com/resources/unibeast-8-3-2-high-sierra.383/)
@@ -76,3 +77,4 @@ A curated list of awesome articles, kexts, tools and shiny things for Hackintosh
 ## Community
 
   - [tonymacx86.com](https://www.tonymacx86.com/)
+
